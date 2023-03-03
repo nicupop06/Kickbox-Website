@@ -1,0 +1,23 @@
+body{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: url('../images/pattern3.jpg');
+    background-repeat: repeat;
+}
+.lala{
+    width:  200px;
+    height: 200px;
+}
+.bg-primary{
+    background-color: black !important
+}
+.jumbotron-other{
+    background: url('../images/tengu.jpg')
+}
+.jumbotron-detail-apple-pie{
+    background: url('../images/tengu2.jpg') no-repeat fixed;
+    background-size: cover;
+}
+.jumbotron{
+    height:40vh;
+}
